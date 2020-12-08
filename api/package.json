@@ -1,0 +1,32 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Decentralized vote API",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubcv/Decentralized-Vote.git"
+  },
+  "keywords": [
+    "Decentralized",
+    "Vote",
+    "Hyperledger",
+    "Fabric",
+    "2.2"
+  ],
+  "author": "Ruben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubcv/Decentralized-Vote/issues"
+  },
+  "homepage": "https://github.com/rubcv/Decentralized-Vote#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
