@@ -145,3 +145,11 @@ Leer un voto:
 3. Lanzar server
 
        node server.js
+
+# Probar con Postman
+
+![Postman GET](doc/postman1.png)
+
+![Postman POST](doc/postman2.png)
+
+![Postman GET ID](doc/postman3.png)
